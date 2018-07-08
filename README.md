@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/NielMc/e-commerce.svg?branch=master)](https://travis-ci.org/NielMc/e-commerce)
+[![Build Status](https://travis-ci.org/Sighovie/e-commerce.svg?branch=master)](https://travis-ci.org/Sighovie/e-commerce)
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
@@ -15,7 +15,7 @@ If you want, you can also go watch some training videos at
 http://www.youtube.com/user/c9ide.
 
 
-[![Build Status](https://travis-ci.org/Sighovie/e-commerce.svg?branch=master)](https://travis-ci.org/Sighovie/e-commerce)
+
 
 Happy coding!
 The Cloud9 IDE team
